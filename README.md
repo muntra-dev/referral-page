@@ -35,3 +35,13 @@ Expample of connecting widget to a page:
    <script type="text/javascript" src="https://muntra-dev.github.io/referral-page/index.js"></script>
  </body>
 ````
+
+# Styling a widget window
+
+Use muntra-referral-widget styles to style the widget window:
+````
+.muntra-referral-widget {
+  height: 1000px;
+  margin: 10px auto 0;
+}
+````
