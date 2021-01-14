@@ -17,8 +17,9 @@ First, place the <div> tag in the site markup, with the following attributes:
      muntra_clinic_id="1"
     />
   ````
-  
-    Secondly, place a tag:
+
+  Secondly, place a tag:
+    
   ````
   <script type = "text/javascript" src = "https://muntra-dev.github.io/referral-page/index.js"> </script>
   ````
