@@ -1,4 +1,4 @@
-Muntra referral react widget
+# Most recent info found at the [Muntra Docs](https://muntra-dev.github.io/muntra-docs)
 
 # Placing a widget on a page
 
